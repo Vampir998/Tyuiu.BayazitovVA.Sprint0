@@ -15,5 +15,6 @@ class Programm
         Console.WriteLine("Произведение элементов массива = " + DataService.MultiplicationArray(numsArray));
 
         Console.ReadKey();
+        ;
     }
 }
